@@ -1,0 +1,12 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="All Tests" type="GoTestRunConfiguration" factoryName="Go Test">
+    <module name="go-with-tests" />
+    <working_directory value="$PROJECT_DIR$/" />
+    <framework value="gotest" />
+    <kind value="DIRECTORY" />
+    <package value="main" />
+    <directory value="$PROJECT_DIR$/" />
+    <filePath value="$PROJECT_DIR$/hello-world/hello_test.go" />
+    <method v="2" />
+  </configuration>
+</component>
